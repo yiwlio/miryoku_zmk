@@ -16,7 +16,7 @@
 #include "miryoku.h"
 
 #define ZMK_POINTING_DEFAULT_MOVE_VAL 3000  
-#define ZMK_POINTING_DEFAULT_SCRL_VAL 20    
+#define ZMK_POINTING_DEFAULT_SCRL_VAL 100    
 
 #include <dt-bindings/zmk/mouse.h>
 
